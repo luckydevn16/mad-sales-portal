@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  background-color: #fafafb!important;
+}
+
+.dx-row > td {
+  vertical-align: middle!important;
+}

@@ -1,0 +1,6 @@
+# Files and directories to exclude from Docker build context
+node_modules
+build
+yarn-error.log
+*.log
+.DS_Store

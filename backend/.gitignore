@@ -1,0 +1,21 @@
+# Environment variables
+.env
+.env.development
+.env.production
+
+# Logs
+logs
+*.log
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+dist
+
+# Dependency directories
+node_modules
+
+# VSCode
+.vscode
+
+# Uploads directory
+#uploads/
